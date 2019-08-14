@@ -1,0 +1,10 @@
+@font-face{
+    src: url('./images/SourceHanSerifSC-Heavy.otf') format('truetype');
+    font-family: 'SourceHanSerifSC-Heavy';
+}
+.expense{
+    display: flex;
+    color:green;
+    font-size: 30px;
+    font-family: 'SourceHanSerifSC-Heavy'
+}
